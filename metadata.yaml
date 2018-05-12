@@ -1,0 +1,27 @@
+_repo: The-Bronze-Age-in-Ireland_26880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffey, George
+    birthdate: 1857
+    deathdate: 1916
+    gutenberg_agent_id: '32296'
+    url: http://www.gutenberg.org/2009/agents/32296
+description: ''
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26880'
+  lccn: a14001703
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bronze age -- Ireland'
+- !lcc 'GN'
+title: The Bronze Age in Ireland
+url: http://www.gutenberg.org/ebooks/26880
